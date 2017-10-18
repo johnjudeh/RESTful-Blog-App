@@ -1,0 +1,20 @@
+i.icon {
+  font-size: 1.2em;
+}
+
+.container.main {
+  margin-top: 7.0em;
+}
+
+img {
+  width: 40%;
+}
+
+/*Defined by JJ not UI*/
+img.show {
+  width: 100%;
+}
+
+form.delete {
+  display: inline;
+}
